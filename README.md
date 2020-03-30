@@ -38,6 +38,7 @@ Credit to **Starbucks** and **Udacity** for the data.
 
 ### Result <a name="result"></a>
 Model performance: 
-*IRR = 0.0205.
-*NIR = 6.75.
-The performance is better than the Starbuck baseline model with an IRR of 0.0188 and an NIR of 189.45 on the test set.
+* **IRR = 0.0205**
+* **NIR = 216.75**
+
+The performance is better than the Starbuck baseline model with an **IRR of 0.0188** and a **NIR of 189.45** on the test set.
