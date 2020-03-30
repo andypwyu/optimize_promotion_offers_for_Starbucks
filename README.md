@@ -7,6 +7,7 @@ DSND Term 2 Portfolio Exercise: Optimize promotion offers for Starbucks
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#description)
 4. [Acknowledgements](#acknowledgement)
+5. [Result](#result)
 
 
 ### Installation <a name="installation"></a>
@@ -26,10 +27,17 @@ Our promotion strategy will be evaluated on 2 key metrics
 1. Incremental Response Rate (IRR)
 2. Net Incremental Revenue (NIR)
 
-## File Descriptions<a name="description"></a>
+### File Descriptions<a name="description"></a>
 1. **Starbucks.ipynb** - Uplift Modeling
 2. **test_results.py** - Strategy performance evaluation 
 
 
-## Acknowledgements<a name="acknowledgement"></a>
+### Acknowledgements<a name="acknowledgement"></a>
 Credit to **Starbucks** and **Udacity** for the data.
+
+
+### Result <a name="result"></a>
+Model performance: 
+*IRR = 0.0205.
+*NIR = 6.75.
+The performance is better than the Starbuck baseline model with an IRR of 0.0188 and an NIR of 189.45 on the test set.
